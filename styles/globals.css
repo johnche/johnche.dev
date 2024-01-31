@@ -1,6 +1,6 @@
  @font-face {
      font-family: 'iA Writer Mono';
-     src: url('/fonts/iAWriterMonoS-Regular.ttf') format('truetype');
+     src: url('/fonts/iAWriterMonoS-Regular.woff') format('woff');
  }
 
  :root {
